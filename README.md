@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @010010100110000101111001
+- 👀 I’m interested in coding, science, technology and travelling
+- 🌱 I’m currently learning web development - mostly JavaScript at the moment
+- 📫 How to reach me: bitsandbytes.uk
